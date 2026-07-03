@@ -33,7 +33,13 @@
   --color-warn: var(--warn);
   --font-display: "Orbitron", ui-sans-serif, system-ui;
   --font-mono: "JetBrains Mono", ui-monospace, monospace;
-  --font-sans: "Rajdhani", ui-sans-serif, system-ui;
+  --font-sans: "Space Grotesk", "Inter", ui-sans-serif, system-ui;
+  --color-p-bg: #040404;
+  --color-p-primary: #00E5FF;
+  --color-p-secondary: #7B61FF;
+  --color-p-accent: #00FFA8;
+  --color-p-highlight: #FF4D8D;
+  --color-p-text-dim: #A9A9A9;
 }
 
 :root {
